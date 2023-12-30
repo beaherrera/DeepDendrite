@@ -2,7 +2,7 @@ rm -rf build
 mkdir build
 cd build
 # module purge
-module load /path/to/your/nvhpc/modulefile/modulefiles
+# module load /path/to/your/nvhpc/modulefile/modulefiles
 # for older versions of pgi, load the moduleflie as following
 ## module purge
 # module load /path/to/your/pgi/modulefiles/pgi/19.10
